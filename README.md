@@ -16,7 +16,6 @@
 - ⚙️ Build **scalable backend systems** using Java & Spring Boot  
 - 🔐 Implement **secure authentication & authorization** with Spring Security & JWT  
 - 🗄️ Work with **relational databases** using JPA / Hibernate  
-- ☁️ Deploy real-world apps using **Docker, AWS & Kubernetes**  
 - 🧠 Focus on **System Design, Clean Architecture & Performance Optimization**
 
 ---
