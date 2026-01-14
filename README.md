@@ -11,10 +11,6 @@
 <h3 align="center">🚀 Enterprise-Grade Java Backend Engineer</h3>
 <p align="center"><b>Spring Boot | REST APIs</b></p>
 
-<img align="right" alt="Coding" width="260" 
-     src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"
-     hspace="20" vspace="10">
-
 ### 👨‍💻 What I Do
 
 - ⚙️ Build **scalable backend systems** using Java & Spring Boot  
