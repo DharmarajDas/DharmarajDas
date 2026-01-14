@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Dharmaraj+Das;Java+Backend+Engineer+💻;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Building+Scalable+Systems+Everyday+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Dharmaraj+Das;Java+Backend+Engineer+💻;Spring+Boot+%7C+REST+APIs+%7C;Building+Scalable+Systems+Everyday+🚀" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -52,11 +52,6 @@
 <td align="center" width="80">
   <img src="https://skillicons.dev/icons?i=vscode" width="36"/><br>
   <span style="font-size:12px;">VS Code</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=idea" width="36"/><br>
-  <span style="font-size:12px;">IntelliJ</span>
 </td>
 
 <td align="center" width="80">
