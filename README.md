@@ -1,6 +1,6 @@
 <!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=1800&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Deepak;Java+Backend+Developer+💻;Spring+Boot+&+API+Specialist;Always+Learning+📚+Always+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=1800&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Dharmaraj;Java+Backend+Developer+💻;Spring+Boot+&+API+Specialist;Always+Learning+📚+Always+Building" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -35,7 +35,7 @@
 </h1>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=deepakdey412&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DharmrajDas&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <h3 align="center">🚀 Enterprise-Grade Java Backend Engineer</h3>
