@@ -20,6 +20,13 @@
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DharmarajDas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DharmarajDas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DharmarajDas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 <table align="center">
 <tr>
 
@@ -80,6 +87,15 @@
 
 ---
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dharmaraj_13579) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharmarajdas13579@gmail.com) 
+
+---
+
 <div align="center">
   <h3><b>𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!</b></h3>
 </div>
+
+---
+
+
