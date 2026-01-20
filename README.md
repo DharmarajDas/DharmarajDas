@@ -99,8 +99,6 @@
 <a href="https://www.leetcode.com/dharmarajdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharmarajdas" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@dharmaraj13579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dharmaraj13579" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dharmarajdas13579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dharmarajdas13579" height="30" width="40" /></a>
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharmarajdas13579@gmail.com) 
-
 </p>
 
 ---
