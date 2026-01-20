@@ -87,8 +87,21 @@
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dharmaraj_13579) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharmarajdas13579@gmail.com) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dharmaraj13579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dharmaraj13579" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dharmaraj-das-326b36270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharmaraj-das-326b36270" height="30" width="40" /></a>
+<a href="https://kaggle.com/dharmaraj13579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dharmaraj13579" height="30" width="40" /></a>
+<a href="https://instagram.com/dharmaraj_13579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharmaraj_13579" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dharmarajdas3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dharmarajdas3" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dharmarajdas1351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharmarajdas1351" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/dharmicdevx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dharmicdevx" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dharmarajdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharmarajdas" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@dharmaraj13579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dharmaraj13579" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dharmarajdas13579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dharmarajdas13579" height="30" width="40" /></a>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharmarajdas13579@gmail.com) 
+
+</p>
 
 ---
 
